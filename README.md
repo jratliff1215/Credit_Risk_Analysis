@@ -74,3 +74,10 @@ Using Jupyter Notebook with the scikit-learn and imbalanced-learn libraries, ove
 - High Risk Precision score: 0.09
 - Low Risk Precision score: 1.00
 - Overall Precision score: 0.99
+
+
+#Further Analysis
+
+The most reliable model is the Easy Ensemble Classifier as this model has the highest accuracy score and the highest sensitivity ratings. Further analysis is needed with inclusive variables such as payment amounts, interest, principle, etc. 
+
+However, these models are not strong enough to determine credit worthiness on a stand-alone basis. Models such as the ones used need to be reviewed for credit bias and discriminatory lending. A review of the credit application by a human in addition to the models should be used when lending to the general population. 
