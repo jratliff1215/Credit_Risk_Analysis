@@ -76,7 +76,7 @@ Using Jupyter Notebook with the scikit-learn and imbalanced-learn libraries, ove
 - Overall Precision score: 0.99
 
 
-#Further Analysis
+# Further Analysis
 
 The most reliable model is the Easy Ensemble Classifier as this model has the highest accuracy score and the highest sensitivity ratings. Further analysis is needed with inclusive variables such as payment amounts, interest, principle, etc. 
 
